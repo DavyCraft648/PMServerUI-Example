@@ -1,0 +1,11 @@
+name: UIExample
+description: PMServerUI virion example
+main: DavyCraft648\UIExample\UIExample
+version: 0.0.1
+api: 5.0.0
+permissions:
+  uiexample.command.uitest:
+    default: true
+commands:
+  uitest:
+    permission: uiexample.command.uitest
