@@ -1,7 +1,8 @@
 # PMServerUI Example
 
-This plugin is a simple example that shows how to use my PMServerUI virion. The PMServerUI virion is designed to make
-the old FormAPI better by using the powerful UI features from the Minecraft Bedrock Script API.
+This plugin is a simple example that shows how to use my [PMServerUI](https://github.com/DavyCraft648/PMServerUI)
+virion. The PMServerUI virion is designed to make the old FormAPI better by using the powerful UI features from the
+Minecraft Bedrock Script API.
 
 ## Commands
 
