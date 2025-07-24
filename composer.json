@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": "^8.2",
+    "davycraft648/pmserver-ui": "^1.0"
+  },
+  "require-dev": {
+    "pocketmine/pocketmine-mp": "^5.0.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}

@@ -4,6 +4,9 @@ This plugin is a simple example that shows how to use my [PMServerUI](https://gi
 virion. The PMServerUI virion is designed to make the old FormAPI better by using the powerful UI features from the
 Minecraft Bedrock Script API.
 
+To run this plugin, compile it with a virion compiler tool such as [pharynx](https://github.com/SOF3/pharynx). The tool
+shall scan virions from the [`composer.json`](composer.json) automatically and install them.
+
 ## Commands
 
 - `/uitest` - Show a list of examples that can be viewed.
